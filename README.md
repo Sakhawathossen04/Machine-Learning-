@@ -36,6 +36,9 @@ This journey is built on a few core principles:
 > Progress is incremental, intentional, and documented.
 
 ---
+## 🗂️ Repository Structure
+
+
 machine-learning-advanced/
 ├── Day-01/ # Daily concepts, code, and experiments
 ├── Day-02/ # Daily concepts, code, and experiments
