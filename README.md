@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Advanced  
+#  Machine Learning Advanced  
 ### A 120-Day Structured Journey Toward Industry Readiness
 
 This repository documents a **disciplined, long-term learning journey** focused on building strong foundations and practical depth in **Machine Learning, Data Science, and Applied AI**.
@@ -11,7 +11,7 @@ Rather than scattered tutorials, this repo follows a **day-wise, system-driven p
 
 ---
 
-## 🔍 Purpose of This Repository
+##  Purpose of This Repository
 
 The goal of this repository is to:
 
@@ -24,7 +24,7 @@ The goal of this repository is to:
 
 ---
 
-## 🧩 Learning Philosophy
+##  Learning Philosophy
 
 This journey is built on a few core principles:
 
@@ -36,18 +36,7 @@ This journey is built on a few core principles:
 > Progress is incremental, intentional, and documented.
 
 ---
-## 🗂️ Repository Structure
-
-
-machine-learning-advanced/
-├── Day-01/ # Daily concepts, code, and experiments
-├── Day-02/ # Daily concepts, code, and experiments
-├── Day-03/
-├── ...
-├── notes/ # Condensed explanations & insights
-├── projects/ # Applied projects and final MVP
-└── resources/ # Curated references and materials
-
+##  Repository Structure
 
 Each **Day folder** contains:
 
@@ -57,7 +46,7 @@ Each **Day folder** contains:
 
 ---
 
-## 🧪 Core Focus Areas
+## Core Focus Areas
 
 Over the course of 120 days, this repository will cover:
 
@@ -72,7 +61,7 @@ Over the course of 120 days, this repository will cover:
 
 ---
 
-## 🎯 Long-Term Objective
+## Long-Term Objective
 
 By the end of this journey, the aim is to:
 
@@ -83,5 +72,4 @@ By the end of this journey, the aim is to:
 
 > This repository serves as both **proof of work** and **learning archive**.
 
-## 🗂️ Repository Organization
 
