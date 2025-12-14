@@ -35,7 +35,7 @@ This journey is built on a few core principles:
 
 > Progress is incremental, intentional, and documented.
 
----
+
 machine-learning-advanced/
 ├── Day-01/ # Daily concepts, code, and experiments
 ├── Day-02/
@@ -43,7 +43,7 @@ machine-learning-advanced/
 ├── notes/ # Condensed explanations & insights
 ├── projects/ # Applied projects and final MVP
 └── resources/ # Curated references and materials
-
+---
 
 Each **Day folder** contains:
 
