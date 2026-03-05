@@ -1,6 +1,6 @@
 ## Machine Learning Advanced
 
-### A 120-Day (4-Month) Job-Crack Challenge — Data Scientist & ML Engineer
+### A 120-Day — Advanced Data Scientist & ML Engineer Challenge 
 
 This repository documents a **disciplined, day-wise learning and building journey** to become **industry-ready** in:
 
